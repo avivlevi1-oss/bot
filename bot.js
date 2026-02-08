@@ -4,7 +4,7 @@ const express = require('express');
 
 // --- הגדרות הבוט ---
 // הטוקן שלך (שים לב: שמור על הקובץ הזה חסוי!)
-const token = '8392824005:AAGr8he4a70SXrjBiuN3qkK68MXH6lNcI9I'; 
+const token = '8379817047:AAFOMYJbFzJmd52z4M_dbC6e9EUqOfchp-Q'; 
 const channelId = '@globaleyesite'; 
 
 // יצירת הבוט
